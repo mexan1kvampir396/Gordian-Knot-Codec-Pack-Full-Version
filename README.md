@@ -236,3 +236,6 @@ This repository serves as the official landing page for Gordian Knot Codec Pack.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Gordian Knot Codec Pack today!**
+
+---
+**Last updated:** 2026-09-10 14:43:14 UTC
