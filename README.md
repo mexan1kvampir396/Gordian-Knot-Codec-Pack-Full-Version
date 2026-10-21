@@ -238,4 +238,4 @@ This repository serves as the official landing page for Gordian Knot Codec Pack.
 **Get the most recent version of Gordian Knot Codec Pack today!**
 
 ---
-**Last updated:** 2026-10-20 21:05:47 UTC
+**Last updated:** 2026-10-21 00:17:37 UTC
